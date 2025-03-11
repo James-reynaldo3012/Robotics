@@ -1,0 +1,4 @@
+/media/sf_robotics_c/A3/build/CMakeFiles/rebuild_cache.dir
+/media/sf_robotics_c/A3/build/CMakeFiles/edit_cache.dir
+/media/sf_robotics_c/A3/build/CMakeFiles/cv_main.dir
+/media/sf_robotics_c/A3/build/CMakeFiles/controlDLL.dir
