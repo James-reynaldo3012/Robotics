@@ -1,0 +1,8 @@
+prefix=/media/sf_robotics_c/workspace_assignment4/workspace_assignment4/devel
+
+Name: rbo_create
+Description: Description of rbo_create
+Version: 1.0.0
+Cflags: -I/media/sf_robotics_c/workspace_assignment4/workspace_assignment4/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy geometry_msgs tf nav_msgs

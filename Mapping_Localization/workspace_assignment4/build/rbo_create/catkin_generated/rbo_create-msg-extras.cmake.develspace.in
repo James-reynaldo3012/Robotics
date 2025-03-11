@@ -1,0 +1,2 @@
+set(rbo_create_MESSAGE_FILES "/media/sf_robotics_c/workspace_assignment4/workspace_assignment4/src/rbo_create/msg/SensorPacket.msg")
+set(rbo_create_SERVICE_FILES "/media/sf_robotics_c/workspace_assignment4/workspace_assignment4/src/rbo_create/srv/ResetOdom.srv;/media/sf_robotics_c/workspace_assignment4/workspace_assignment4/src/rbo_create/srv/Leds.srv;/media/sf_robotics_c/workspace_assignment4/workspace_assignment4/src/rbo_create/srv/Tank.srv")

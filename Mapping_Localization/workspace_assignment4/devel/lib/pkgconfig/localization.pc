@@ -1,0 +1,8 @@
+prefix=/media/sf_robotics_c/workspace_assignment4/workspace_assignment4/devel
+
+Name: localization
+Description: Description of localization
+Version: 0.0.0
+Cflags: -I/media/sf_robotics_c/workspace_assignment4/workspace_assignment4/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime sensor_msgs nav_msgs

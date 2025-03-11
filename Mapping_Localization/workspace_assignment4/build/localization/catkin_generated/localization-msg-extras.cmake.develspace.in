@@ -1,0 +1,2 @@
+set(localization_MESSAGE_FILES "/media/sf_robotics_c/workspace_assignment4/workspace_assignment4/src/localization/msg/PoseWithWeight.msg;/media/sf_robotics_c/workspace_assignment4/workspace_assignment4/src/localization/msg/PoseWithWeightArray.msg;/media/sf_robotics_c/workspace_assignment4/workspace_assignment4/src/localization/msg/PoseWithWeightStamped.msg")
+set(localization_SERVICE_FILES "/media/sf_robotics_c/workspace_assignment4/workspace_assignment4/src/localization/srv/SetInitialPose.srv")

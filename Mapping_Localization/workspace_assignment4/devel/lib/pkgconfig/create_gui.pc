@@ -1,0 +1,8 @@
+prefix=/media/sf_robotics_c/workspace_assignment4/workspace_assignment4/devel
+
+Name: create_gui
+Description: Description of create_gui
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rbo_create localization

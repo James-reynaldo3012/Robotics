@@ -1,0 +1,8 @@
+prefix=/media/sf_robotics_c/workspace_assignment4/workspace_assignment4/devel
+
+Name: mapping
+Description: Description of mapping
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: sensor_msgs nav_msgs
